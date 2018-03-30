@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title:  Derivatives and data science
+title:  Deriquant
 tagline: Notes and notebooks
 description: Nil
 keywords: derivatives, options, pricing, risk, options, swaps, bonds, forwards, data science
